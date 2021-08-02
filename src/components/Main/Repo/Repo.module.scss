@@ -1,0 +1,22 @@
+.repo {
+  border: 1px solid #30363d;
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+
+  .name {
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .lastUpdate {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+}
